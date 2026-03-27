@@ -1,0 +1,17 @@
+# Ignore dataset folder
+Dataset/
+
+# Ignore zip files
+*.zip
+
+# Ignore outputs
+output/
+*.parquet
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
